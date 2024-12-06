@@ -8,7 +8,7 @@ caracter alfabeto[27] = {' ','A','B','C','D','E','F','G','H','I','J','K','L','M'
 	
 	funcao inicio()
 	{
-		criptografar("GABRIEL", 2)
+		criptografar("ABOBRINHA", 2)
 	}
 	funcao criptografar(cadeia texto, inteiro chave){
 		
